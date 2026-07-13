@@ -16,13 +16,6 @@ Assignments completed during my AI Backend Engineering internship at FlyRank.
 
 \## Setup (shared across all assignments)
 
-```bash
-
-python -m venv venv
-
-venv\\Scripts\\activate
-
-pip install -r week1/be-01-first-endpoint/requirements.txt
 
 ```
 
